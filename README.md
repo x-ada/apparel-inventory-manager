@@ -24,6 +24,7 @@ tabulate: This module formats data into a tabular format for easier visualizatio
 ## Installing Libraries:
 
 The required libraries can be installed by simply running the following command:
+
 ```pip install -r requirements.txt```
 
 ## Functions:
