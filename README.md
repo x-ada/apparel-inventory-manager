@@ -2,7 +2,9 @@
 
 ## [Video Demo](https://www.youtube.com/watch?v=oC1Okrxd0eY)
 ## Description:
-This program creates an inventory file and displays a menu that allows the user to add a new item to their inventory, edit, remove, or view an existing item, or view the overall inventory as a table using different sorting methods. The user may also input a csv file in the command-line to interact with an existing inventory file.
+This program was created as my final project for CS50P. 
+
+The program creates an inventory file and displays a menu that allows the user to add a new item to their inventory, edit, remove, or view an existing item, or view the overall inventory as a table using different sorting methods. The user may also input a csv file in the command-line to interact with an existing inventory file.
 
 ## Libraries:
 This program requires the following libraries for these usages:
